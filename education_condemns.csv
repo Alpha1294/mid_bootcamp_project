@@ -1,0 +1,153 @@
+,year,total_condemns,regions,percentage_achivied_education,education_level,condemns_level
+0,2022,6.856,Andalucía,30.7,High,High
+1,2021,6.457,Andalucía,31.2,High,High
+2,2020,5.113,Andalucía,31.0,High,Low
+3,2019,6.11,Andalucía,31.2,High,High
+4,2018,5.676,Andalucía,30.9,High,High
+5,2017,5.496,Andalucía,31.6,High,High
+6,2016,5.14,Andalucía,32.1,High,High
+7,2015,4.773,Andalucía,31.0,High,Low
+8,2022,963.0,Aragón,28.5,Low,High
+9,2021,899.0,Aragón,26.9,Low,High
+10,2020,717.0,Aragón,25.1,Low,High
+11,2019,788.0,Aragón,25.9,Low,High
+12,2018,764.0,Aragón,26.8,Low,High
+13,2017,680.0,Aragón,27.0,Low,High
+14,2016,651.0,Aragón,25.9,Low,High
+15,2015,507.0,Aragón,25.7,Low,High
+16,2022,894.0,"Asturias, Principado de",31.8,High,High
+17,2021,766.0,"Asturias, Principado de",30.0,High,High
+18,2020,534.0,"Asturias, Principado de",28.0,Low,High
+19,2019,689.0,"Asturias, Principado de",27.9,Low,High
+20,2018,647.0,"Asturias, Principado de",25.5,Low,High
+21,2017,653.0,"Asturias, Principado de",23.6,Low,High
+22,2016,599.0,"Asturias, Principado de",22.8,Low,High
+23,2015,542.0,"Asturias, Principado de",21.6,Low,High
+24,2022,1.366,"Balears, Illes",32.0,High,Low
+25,2021,1.294,"Balears, Illes",29.7,High,Low
+26,2020,1.022,"Balears, Illes",31.3,High,Low
+27,2019,1.348,"Balears, Illes",33.1,High,Low
+28,2018,1.181,"Balears, Illes",32.4,High,Low
+29,2017,1.213,"Balears, Illes",34.3,High,Low
+30,2016,1.196,"Balears, Illes",32.7,High,Low
+31,2015,954.0,"Balears, Illes",33.6,High,High
+32,2022,2.774,Canarias,25.6,Low,Low
+33,2021,2.641,Canarias,26.3,Low,Low
+34,2020,2.257,Canarias,24.0,Low,Low
+35,2019,2.438,Canarias,27.0,Low,Low
+36,2018,2.184,Canarias,28.6,Low,Low
+37,2017,2.13,Canarias,27.8,Low,Low
+38,2016,2.002,Canarias,28.9,Low,Low
+39,2015,1.773,Canarias,28.7,Low,Low
+40,2022,392.0,Cantabria,30.1,High,High
+41,2021,362.0,Cantabria,32.0,High,High
+42,2020,310.0,Cantabria,30.4,High,High
+43,2019,358.0,Cantabria,29.0,Low,High
+44,2018,374.0,Cantabria,26.2,Low,High
+45,2017,312.0,Cantabria,27.3,Low,High
+46,2016,257.0,Cantabria,28.7,Low,High
+47,2015,256.0,Cantabria,29.2,Low,High
+48,2022,1.25,Castilla y León,28.3,Low,Low
+49,2021,1.144,Castilla y León,29.0,Low,Low
+50,2020,811.0,Castilla y León,29.9,High,High
+51,2019,1.069,Castilla y León,29.5,Low,Low
+52,2018,1.046,Castilla y León,29.6,Low,Low
+53,2017,1.05,Castilla y León,29.5,Low,Low
+54,2016,1.0,Castilla y León,28.6,Low,Low
+55,2015,981.0,Castilla y León,28.8,Low,High
+56,2022,1.441,Castilla - La Mancha,33.0,High,Low
+57,2021,1.277,Castilla - La Mancha,33.3,High,Low
+58,2020,950.0,Castilla - La Mancha,33.7,High,High
+59,2019,1.144,Castilla - La Mancha,33.7,High,Low
+60,2018,1.116,Castilla - La Mancha,34.0,High,Low
+61,2017,1.075,Castilla - La Mancha,33.8,High,Low
+62,2016,1.087,Castilla - La Mancha,33.2,High,Low
+63,2015,1.078,Castilla - La Mancha,33.3,High,Low
+64,2022,3.984,Cataluña,26.0,Low,Low
+65,2021,3.857,Cataluña,26.4,Low,Low
+66,2020,2.896,Cataluña,27.8,Low,Low
+67,2019,3.339,Cataluña,27.9,Low,Low
+68,2018,3.101,Cataluña,26.2,Low,Low
+69,2017,2.961,Cataluña,27.2,Low,Low
+70,2016,3.049,Cataluña,26.1,Low,Low
+71,2015,2.9,Cataluña,26.9,Low,Low
+72,2022,5.215,Comunitat Valenciana,35.3,High,High
+73,2021,4.855,Comunitat Valenciana,33.3,High,Low
+74,2020,3.823,Comunitat Valenciana,32.4,High,Low
+75,2019,4.565,Comunitat Valenciana,32.2,High,Low
+76,2018,4.13,Comunitat Valenciana,31.6,High,Low
+77,2017,4.062,Comunitat Valenciana,32.9,High,Low
+78,2016,3.794,Comunitat Valenciana,33.9,High,Low
+79,2015,3.559,Comunitat Valenciana,33.9,High,Low
+80,2022,783.0,Extremadura,32.5,High,High
+81,2021,726.0,Extremadura,34.4,High,High
+82,2020,610.0,Extremadura,34.3,High,High
+83,2019,659.0,Extremadura,33.8,High,High
+84,2018,578.0,Extremadura,33.2,High,High
+85,2017,605.0,Extremadura,37.2,High,High
+86,2016,605.0,Extremadura,36.2,High,High
+87,2015,631.0,Extremadura,36.3,High,High
+88,2022,1.525,Galicia,33.8,High,Low
+89,2021,1.426,Galicia,33.5,High,Low
+90,2020,1.124,Galicia,33.0,High,Low
+91,2019,1.319,Galicia,31.6,High,Low
+92,2018,1.213,Galicia,31.0,High,Low
+93,2017,1.16,Galicia,29.6,Low,Low
+94,2016,1.048,Galicia,30.7,High,Low
+95,2015,996.0,Galicia,29.9,High,High
+96,2022,3.833,"Madrid, Comunidad de",21.3,Low,Low
+97,2021,3.317,"Madrid, Comunidad de",21.6,Low,Low
+98,2020,2.397,"Madrid, Comunidad de",22.1,Low,Low
+99,2019,3.081,"Madrid, Comunidad de",21.2,Low,Low
+100,2018,2.678,"Madrid, Comunidad de",23.3,Low,Low
+101,2017,2.726,"Madrid, Comunidad de",22.5,Low,Low
+102,2016,2.555,"Madrid, Comunidad de",22.0,Low,Low
+103,2015,2.518,"Madrid, Comunidad de",22.2,Low,Low
+104,2022,1.96,"Murcia, Región de",35.7,High,Low
+105,2021,1.742,"Murcia, Región de",34.6,High,Low
+106,2020,1.207,"Murcia, Región de",32.8,High,Low
+107,2019,1.484,"Murcia, Región de",33.7,High,Low
+108,2018,1.425,"Murcia, Región de",33.8,High,Low
+109,2017,1.347,"Murcia, Región de",31.8,High,Low
+110,2016,1.3,"Murcia, Región de",32.7,High,Low
+111,2015,1.212,"Murcia, Región de",30.8,High,Low
+112,2022,589.0,"Navarra, Comunidad Foral de",24.1,Low,High
+113,2021,453.0,"Navarra, Comunidad Foral de",23.2,Low,High
+114,2020,310.0,"Navarra, Comunidad Foral de",23.2,Low,High
+115,2019,416.0,"Navarra, Comunidad Foral de",24.0,Low,High
+116,2018,358.0,"Navarra, Comunidad Foral de",22.8,Low,High
+117,2017,329.0,"Navarra, Comunidad Foral de",25.2,Low,High
+118,2016,293.0,"Navarra, Comunidad Foral de",24.3,Low,High
+119,2015,247.0,"Navarra, Comunidad Foral de",26.3,Low,High
+120,2022,1.833,País Vasco,19.9,Low,Low
+121,2021,1.486,País Vasco,21.4,Low,Low
+122,2020,1.078,País Vasco,22.8,Low,Low
+123,2019,1.358,País Vasco,23.5,Low,Low
+124,2018,1.146,País Vasco,22.0,Low,Low
+125,2017,1.089,País Vasco,22.7,Low,Low
+126,2016,1.066,País Vasco,23.7,Low,Low
+127,2015,1.049,País Vasco,22.8,Low,Low
+128,2022,329.0,"Rioja, La",35.1,High,High
+129,2021,232.0,"Rioja, La",34.8,High,High
+130,2020,176.0,"Rioja, La",35.3,High,High
+131,2019,217.0,"Rioja, La",34.4,High,High
+132,2018,229.0,"Rioja, La",35.5,High,High
+133,2017,194.0,"Rioja, La",34.4,High,High
+134,2016,197.0,"Rioja, La",31.3,High,High
+135,2015,180.0,"Rioja, La",25.7,Low,High
+136,2022,88.0,Ceuta,35.5,High,High
+137,2021,76.0,Ceuta,32.7,High,High
+138,2020,57.0,Ceuta,30.1,High,High
+139,2019,53.0,Ceuta,32.3,High,High
+140,2018,69.0,Ceuta,35.0,High,High
+141,2017,61.0,Ceuta,33.1,High,High
+142,2016,62.0,Ceuta,31.0,High,High
+143,2015,54.0,Ceuta,29.2,Low,High
+144,2022,86.0,Melilla,24.4,Low,High
+145,2021,58.0,Melilla,22.2,Low,High
+146,2020,44.0,Melilla,21.6,Low,High
+147,2019,60.0,Melilla,24.3,Low,High
+148,2018,57.0,Melilla,28.1,Low,High
+149,2017,59.0,Melilla,22.9,Low,High
+150,2016,58.0,Melilla,25.9,Low,High
+151,2015,55.0,Melilla,25.7,Low,High
